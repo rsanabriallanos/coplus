@@ -1,2 +1,4 @@
 Inicio del archivo de texto
 Esto es un ejemplo
+
+Haciendo un cambio.
